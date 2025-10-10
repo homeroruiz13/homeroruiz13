@@ -2,7 +2,7 @@
 
 🎓 I’m a student at the **University of Arkansas** majoring in **Computer Science** with minors in **Information Systems** and **Finance**.  
 💼 Currently a **Software Engineer / Business Analyst Intern** at [Compound Foundry](https://compoundfoundry.com).  
-🚀 Co-Founder & **President/CTO** of [Foreko](https://foreko.app), an **AI-powered inventory management platform**.  
+🚀 Co-Founder & **CEO** of [Foreko](https://foreko.app), an **AI-powered inventory management platform**.  
 
 ---
 
